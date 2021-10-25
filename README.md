@@ -4,7 +4,7 @@ This is the code repository for "How does Facebook retain segregated friendship?
 
 The full manuscript is available through this link: https://arxiv.org/abs/2109.08862
 
-<b>Until published, please cite as:</b>
+<b>This manuscript is currently under review. For the time being, please cite as:</b>
 
 APA
 <br>
