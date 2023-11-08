@@ -20,4 +20,4 @@ F. M. Firmansyah, “How does Facebook retain segregated friendship? An agent-ba
 - plots: generated plots in png
 
 <br>
-Please contact Firman M. Firmansyah at manda[dot]firmansyah[at]stonybrook[dot]edu for any questions and suggestions.
+Please contact Firman M. Firmansyah at firman[dot]firmansyah[at]stonybrook[dot]edu for any questions and suggestions.
